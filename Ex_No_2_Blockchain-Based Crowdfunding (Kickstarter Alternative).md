@@ -78,7 +78,8 @@ Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # Output:
 
-![Uploading image.png…]()
-
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/4e6411c6-c3d1-4bed-a668-d6520e603673" />
 
 # RESULT: 
+
+Thus, the decentralized crowdfunding platform has been created and executed successfully .
